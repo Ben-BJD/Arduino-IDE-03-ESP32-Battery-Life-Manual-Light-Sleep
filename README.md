@@ -6,4 +6,4 @@ This repo is related to an ESP32 tutorial.
 
 ## Manual Light Sleep (The Arduino Way)
 
-[See here](https://github.com/Ben-BJD/01-ESP32-Battery-Life-External-Wake-Up/) for a PlatformIO version.
+[See here](https://github.com/Ben-BJD/03-ESP32-Battery-Life-Manual-Power-Management-Light-Sleep) for a PlatformIO version.
